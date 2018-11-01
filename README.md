@@ -1,5 +1,5 @@
 # 👩🏾‍🎓 Week05 Bootcamp2018c Project: Student List
-This project is made to record names of people who are present and are not present. Create a simple app where a teacher can enter student names as they arrive at class. The teacher has the ability to press a button and see a list off all the students who have arrived color coding for whos absent or not present.
+This project is made to record names of people who are present and are not present. The teacher can enter student names as they arrive at class. The teacher has the ability to press a button and see a list off all the students who have arrived red text color change for who's absent or not present.
 
 ### Goal: Build a Simple Student List App For A Teacher
 ### Link to project:  
