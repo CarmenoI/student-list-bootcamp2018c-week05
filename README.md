@@ -2,7 +2,8 @@
 This project is made to record names of people who are present and are not present. Create a simple app where a teacher can enter student names as they arrive at class. The teacher has the ability to press a button and see a list off all the students who have arrived color coding for whos absent or not present.
 
 ### Goal: Build a Simple Student List App For A Teacher
-# Link to project: file:///home/resilient/Desktop/rcoders/week5/studentlist/index.html
+### Link to project:  
+file:///home/resilient/Desktop/rcoders/week5/studentlist/index.html
 
 ### How its made:
 Skill used: HTML, CSS, and JavaScript
